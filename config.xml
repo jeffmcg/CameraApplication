@@ -6,6 +6,7 @@
         <description>
         An example of Phonegap Build Camera. 
     </description>
+<icon src="rps.png" gap:platform="android" gap:density="mdpi" />
 
     <author href="https://sub.example.com" email="someone@email.com">
         Yourname
