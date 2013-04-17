@@ -8,7 +8,6 @@
     </description>
 <icon src="rps.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="dollar.png" gap:platform="android" gap:density="mdpi" />
-<preference name="splash-screen-duration" value="10000" />
 
     <author href="https://sub.example.com" email="someone@email.com">
         Yourname
